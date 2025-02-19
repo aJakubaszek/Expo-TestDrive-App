@@ -1,0 +1,20 @@
+Version=Label
+Desc=A simple and economical car with basic equipment. Ideal for those looking for a sensible and economical means of transport.
+Drive=T3 manual(160KM),T3 automatic (160KM)
+Color=1,2
+Rims=1,2
+Packs=Winter,Parking
+
+Version=Sharp
+Desc=A car with a powerful engine and sporty suspension for a dynamic ride and a unique driving experience.
+Drive=T3 automatic (160KM),B4 milid hybrid (190KM),B4 AWD mild hybrid (190KM), B5 AWD mild hybrid (250KM)
+Color=1,2,3,4,5
+Rims=1,2
+Packs=Winter,Parking,Technology,Lighting
+
+Version=Unity
+Desc=A car with a combination of petrol and electric engine, resulting in fuel savings and lower CO2 emissions.
+Drive=T3 automatic (160KM),B4 milid hybrid (190KM),B4 AWD mild hybrid (190KM), B5 AWD mild hybrid (250KM)
+Color=1,2,3,4,5,6
+Rims=1,2,3
+Packs=Winter,Parking,Technology,Lighting

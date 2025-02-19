@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainTable
+  m_TableCollectionNameGuidString: 657ae2f1f3e2ec744b6f2c5677ce65a6
+  m_Entries:
+  - m_Id: 129592193024
+    m_Key: testDrive.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527841357824
+    m_Key: testDrive.schedule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632166281216
+    m_Key: testDrive.date
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668199546880
+    m_Key: testDrive.time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692895608832
+    m_Key: testDrive.name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741918633984
+    m_Key: testDrive.send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 798927613952
+    m_Key: testDrive.list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 953278001152
+    m_Key: configurator.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032231579648
+    m_Key: configurator.selectSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1145079328768
+    m_Key: gallery.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1214201458688
+    m_Key: configurator.version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1296774721536
+    m_Key: configurator.color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1529843806208
+    m_Key: configurator.rims
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412786044432384
+    m_Key: configurator.create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 463098046312448
+    m_Key: 'testDrive.select
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487912131784704
+    m_Key: testDrive.optional
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830583903875072
+    m_Key: testDrive.refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19807707964633088
+    m_Key: configurator.drive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19808467527921664
+    m_Key: configurator.package
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6059852187382054936
+  references:
+    version: 2
+    RefIds:
+    - rid: 6059852187382054936
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716356218235

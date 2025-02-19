@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainTable_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 657ae2f1f3e2ec744b6f2c5677ce65a6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 129592193024
+    m_Localized: Jazda testowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 527841357824
+    m_Localized: "Um\xF3w si\u0119 na jazd\u0119 testow\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 632166281216
+    m_Localized: Data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 668199546880
+    m_Localized: czas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692895608832
+    m_Localized: "Imi\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741918633984
+    m_Localized: "WY\u015ALIJ"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 798927613952
+    m_Localized: Lista jazd testowych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 953278001152
+    m_Localized: Konfigurator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032231579648
+    m_Localized: "Wybierz zapisan\u0105 konfiguracj\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1145079328768
+    m_Localized: Galeria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1214201458688
+    m_Localized: Wybierz wariant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1296774721536
+    m_Localized: Kolor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1529843806208
+    m_Localized: Felgi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412786044432384
+    m_Localized: "STW\xD3RZ NOW\u0104 KONFIGURACJ\u0118"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 463098046312448
+    m_Localized: Wybierz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487912131784704
+    m_Localized: Opcjonalne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830583903875072
+    m_Localized: "OD\u015AWIE\u017B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19807707964633088
+    m_Localized: "Nap\u0119d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19808467527921664
+    m_Localized: Pakiety
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
